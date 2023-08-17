@@ -1,0 +1,17 @@
+{
+  "name": "@servers/root",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "pnpm": ">=8.4 <9.0",
+    "node": ">=18.0 <21.0"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1",
+    "typescript": "4.9.5"
+  },
+  "scripts": {
+    "kafka-start": "docker-compose up",
+    "watch": "tsc -b -w"
+  }
+}

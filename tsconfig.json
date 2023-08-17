@@ -1,0 +1,11 @@
+{
+    "files": [],
+    "references": [
+      { "path": "./packages/client-handler" },
+  
+      { "path": "./packages/server-A" },
+      { "path": "./packages/server-B" }
+    ],
+    "exclude": []
+  }
+  

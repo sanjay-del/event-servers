@@ -1,0 +1,5 @@
+packages:
+  - "./"
+  - "./packages/client-handler"
+  - "./packages/server-A"
+  - "./packages/server-B"
