@@ -1,1 +1,1 @@
-import "./src/app/AppServer.js"
+import "./src/server.js"
